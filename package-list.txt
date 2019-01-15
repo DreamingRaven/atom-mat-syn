@@ -34,5 +34,4 @@ script@3.18.1
 tool-bar@1.1.11
 vim-mode-plus@1.36.0
 
-tablr@1.8.3
 

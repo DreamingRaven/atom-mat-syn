@@ -15,3 +15,8 @@ Package list files can be generated using:
 ```
 apm list --installed --bare > package-list.txt
 ```
+
+It is recommended that for csv or other 'seperated values' file type to use tablr. Tablr has a few problems in current atom as it has not been updated. However a fork which now works is availiable using:
+```
+apm install https://github.com/mfripp/atom-tablr.git
+```
